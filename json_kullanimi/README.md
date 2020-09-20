@@ -2,8 +2,7 @@
 
 Http Package Json Ve Api Kavramları Öğreniyorum
 
-## Getting Started
-
+## Neler öğrendim
 - FutureBuilder
 - DefaultAssetBundle
 - CircularProgressIndicator
